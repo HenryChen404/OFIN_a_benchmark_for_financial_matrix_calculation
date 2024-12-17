@@ -100,7 +100,7 @@ Please reference the project's code style and contribution guidelines before sub
 Special thanks to:
 - Professor Thomas Bourveau
 - Professor Tianyi Peng
-- Hannah Li
+- Professor Hannah Li
 - Professor Stephen Penman and the MSAFA program at Columbia Business School
 
 ## Author
