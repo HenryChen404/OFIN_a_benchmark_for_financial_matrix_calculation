@@ -766,8 +766,8 @@ def save_results_with_accuracy(model, results_df, accuracy_info, pdf_folder):
 #%%
 if __name__ == "__main__":
     
-    pdf_folder = r"D:\!MSAFA\！Course\3-GenAI\Project\Reports_2023"
-    project_folder = r"D:\!MSAFA\！Course\3-GenAI\Project"
+    pdf_folder = r"YOUR_FOLDER_PATH"
+    project_folder = r"YOUR_FOLDER_PATH"
     matrix_list = matrix
     
     # 存储所有结果
