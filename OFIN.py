@@ -32,7 +32,7 @@ client = ai.Client()
 # Define models from different providers with correct identifiers
 
 # read an excel file
-ori_df = pd.read_excel(r'D:\!MSAFA\！Course\3-GenAI\Project\FI_T4.xlsx')
+ori_df = pd.read_excel(r'YOUR_FILE_PATH')
 
 df = ori_df.drop([0, 1]).reset_index(drop=True)
 df = df[df['Accper'] == "2023-12-31"]
